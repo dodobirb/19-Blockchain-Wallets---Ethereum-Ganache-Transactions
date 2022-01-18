@@ -1,5 +1,5 @@
 # Module_19_Challenge
-FinTech Boot Camp Module 19 Challenge: Blockchain Wallets
+FinTech Boot Camp Module 19 Challenge: Blockchain Wallets - Ethereum, Ganache, & Transactions
 
 Our new platform *Fintech Finder* is an application that customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. The Ethereum blockchain network has been integrated into the application in order to enable customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 
@@ -15,15 +15,15 @@ The second file is *crypto_wallet.py*. This file contains the Ethereum transacti
 
 Ganache address balance & history:
 
-![Ganache address balance & history](./my_address_balance_history_ganache.png)
+![Ganache address balance & history](../my_address_balance_history_ganache.png)
 
 Ganache transaction details:
 
-![Ganache transaction details](./transaction_details_ganache.png)
+![Ganache transaction details](../transaction_details_ganache.png)
 
 Interface - Validated transaction hash (bottom left):
 
-![Interface - Validated transaction hash](./validated_trans_hash_bottomleft.png)
+![Interface - Validated transaction hash](../validated_trans_hash_bottomleft.png)
 
 ---
 
