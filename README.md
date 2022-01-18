@@ -15,15 +15,15 @@ The second file is *crypto_wallet.py*. This file contains the Ethereum transacti
 
 Ganache address balance & history:
 
-![Ganache address balance & history](./Starter_Code/my_address_balance_history_ganache.png)
+![Ganache address balance & history](./Starter_Code/my_address_balance_history_ganache_v2.png)
 
 Ganache transaction details:
 
-![Ganache transaction details](./Starter_Code/transaction_details_ganache.png)
+![Ganache transaction details](./Starter_Code/transaction_details_ganache_v2.png)
 
 Interface - Validated transaction hash (bottom left):
 
-![Interface - Validated transaction hash](./Starter_Code/validated_trans_hash_bottomleft.png)
+![Interface - Validated transaction hash](./Starter_Code/validated_trans_hash_bottomleft_v2.png)
 
 ---
 
