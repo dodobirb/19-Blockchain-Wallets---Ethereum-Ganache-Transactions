@@ -1,5 +1,5 @@
-# Module_19_Challenge
-FinTech Boot Camp Module 19 Challenge: Blockchain Wallets - Ethereum, Ganache, & Transactions
+# 19: Blockchain Wallets - Ethereum, Ganache, & Transactions
+FinTech Boot Camp Module 19 Challenge
 
 Our new platform *Fintech Finder* is an application that customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. The Ethereum blockchain network has been integrated into the application in order to enable customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
 
